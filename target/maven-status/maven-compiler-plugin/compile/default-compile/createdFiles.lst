@@ -1,0 +1,7 @@
+padroescomportamentais/strategy/sorting/SortByName.class
+padroescomportamentais/strategy/sorting/ProductCatalog.class
+padroescomportamentais/strategy/sorting/SortByPrice.class
+padroescomportamentais/strategy/sorting/Product.class
+padroescomportamentais/strategy/sorting/SortStrategy.class
+padroescomportamentais/strategy/sorting/SortByDate.class
+padroescomportamentais/strategy/sorting/SortByRating.class

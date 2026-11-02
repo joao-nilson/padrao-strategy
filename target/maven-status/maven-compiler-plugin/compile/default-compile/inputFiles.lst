@@ -1,0 +1,7 @@
+/home/si/Documents/uf/AspAvancEngSoft/sorting-strategy/src/main/java/padroescomportamentais/strategy/sorting/Product.java
+/home/si/Documents/uf/AspAvancEngSoft/sorting-strategy/src/main/java/padroescomportamentais/strategy/sorting/ProductCatalog.java
+/home/si/Documents/uf/AspAvancEngSoft/sorting-strategy/src/main/java/padroescomportamentais/strategy/sorting/SortByDate.java
+/home/si/Documents/uf/AspAvancEngSoft/sorting-strategy/src/main/java/padroescomportamentais/strategy/sorting/SortByName.java
+/home/si/Documents/uf/AspAvancEngSoft/sorting-strategy/src/main/java/padroescomportamentais/strategy/sorting/SortByPrice.java
+/home/si/Documents/uf/AspAvancEngSoft/sorting-strategy/src/main/java/padroescomportamentais/strategy/sorting/SortByRating.java
+/home/si/Documents/uf/AspAvancEngSoft/sorting-strategy/src/main/java/padroescomportamentais/strategy/sorting/SortStrategy.java
